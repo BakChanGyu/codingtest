@@ -1,4 +1,4 @@
-package org.example.programmers.lv1.p023;
+package org.example.programmers.lv1.u30.p023;
 
 public class 내적 {
     public int solution(int[] a, int[] b) {

@@ -1,4 +1,4 @@
-package org.example.programmers.lv1.p024;
+package org.example.programmers.lv1.u30.p024;
 
 public class 약수의개수와덧셈 {
     public int solution(int left, int right) {

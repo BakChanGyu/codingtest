@@ -1,4 +1,4 @@
-package org.example.programmers.lv1.p022;
+package org.example.programmers.lv1.u30.p022;
 
 public class 수박수박수박수박수박수 {
     public String solution(int n) {

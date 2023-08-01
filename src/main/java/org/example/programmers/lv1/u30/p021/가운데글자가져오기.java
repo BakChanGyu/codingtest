@@ -1,4 +1,4 @@
-package org.example.programmers.lv1.p021;
+package org.example.programmers.lv1.u30.p021;
 
 public class 가운데글자가져오기 {
     public String solution(String s) {

@@ -1,4 +1,6 @@
-package org.example.programmers.lv1.p025;
+package org.example.programmers.lv1.u30.p025;
+
+import java.util.Arrays;
 
 public class 문자열내림차순으로배치하기 {
     public String solution(String s) {
