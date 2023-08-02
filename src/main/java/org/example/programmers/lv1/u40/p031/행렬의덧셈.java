@@ -1,4 +1,4 @@
-package org.example.programmers.lv1.p028;
+package org.example.programmers.lv1.u40.p031;
 
 public class 행렬의덧셈 {
     public int[][] solution(int[][] arr1, int[][] arr2) {
